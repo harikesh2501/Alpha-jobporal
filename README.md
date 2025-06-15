@@ -31,10 +31,13 @@ This is a complete, working job board application built with React for the front
 
 ##  Prerequisites
 
-- Node.js and npm (or yarn)
+- Node.js and npm 
 - **MySQL Server** running locally.
 
 ---
+## Admin credentail
+Email: admin@example.com
+Password: admin123
 
 ## 🚀 Setup & Running the Application
 
